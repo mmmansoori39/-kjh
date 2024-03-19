@@ -2,4 +2,6 @@ a= 10
 
 c = 200
 
-console.log(a+c)
+b = 12
+
+console.log(a+c+b)
