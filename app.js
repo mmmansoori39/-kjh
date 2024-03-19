@@ -1,4 +1,5 @@
 a= 10
-b = 100;
 
-console.log(a+b)
+c = 200
+
+console.log(a+c)
